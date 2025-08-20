@@ -1,6 +1,6 @@
 {
   "name": "@mohammedaffan/react-flip-card",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A reusable react hover card component with multiple flip and animation styles (flip , fade , slide)",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
