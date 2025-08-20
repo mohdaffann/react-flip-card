@@ -24,10 +24,12 @@
   ],
   "keywords": [
     "react",
-    "card",
-    "flip",
-    "animations",
-    "hover"
+    "react-flip-card",
+    "flip animation",
+    "fade animation",
+    "slide animation",
+    "hover",
+    "react-card-flip"
   ],
   "author": "mohdaffann",
   "license": "MIT",
